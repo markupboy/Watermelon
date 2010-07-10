@@ -1,0 +1,5 @@
+h1. Watermelon
+
+Quick bundle for easy dummy images in HTML. Uses either "placehold.it":http://www.placehold.it and "dummyimage.com":http://dummyimage.com images.
+
+Type either 'place' or 'dummy' and hit tab to use.

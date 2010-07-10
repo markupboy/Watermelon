@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Watermelon</string>
+	<key>ordering</key>
+	<array>
+		<string>F7940E18-AB38-4C91-B95B-24A252A8D4CC</string>
+		<string>0936B3D4-D949-411C-BA3C-46B8BDB35214</string>
+	</array>
+	<key>uuid</key>
+	<string>46D0A40E-2C5E-4E9B-B725-A4D1210AF008</string>
+</dict>
+</plist>
