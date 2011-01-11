@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;img src="http://placehold.it/${1:350}x${2:150}" width="${1:350}" height="${2:150}" /&gt;</string>
+	<string>&lt;img src="http://placehold.it/${1:350}x${2:150}" width="${1:350}" height="${2:150}" $3 /&gt;</string>
 	<key>name</key>
 	<string>place</string>
 	<key>tabTrigger</key>
